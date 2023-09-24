@@ -1,8 +1,4 @@
 ---
- my-pages
 title: "welcome to my blog"
-=======
-title: "welcometo my blog"
-main
 date: 2023-09-24
 ---
